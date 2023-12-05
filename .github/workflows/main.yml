@@ -12,7 +12,7 @@ jobs:
     steps: 
       -name: 'Testing Github action '
        run: pwd 
-       -name: 'Testing printing  '
+      -name: 'Testing printing  '
        run: echo batoul 
 
 
